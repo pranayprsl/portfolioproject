@@ -31,7 +31,7 @@
                 <div class="col-sm-3 text-center">
                     <ul class="list-unstyled">
                         <li>
-                            <i class="fas fa-map-marker-alt fa-2x-color"></i>
+                            <i class="fab fa-fly fa-2x i-color"></i>
                             <p>Nagpur,Maharshtra,India</p>
                         </li>
                         <li>
